@@ -1,4 +1,4 @@
 Hazara Islam@Zara MINGW64 ~
 $
 github
-http://yousername.github.io/page-app/
+https://github.com/Zarasnhu/Pages-App-Code.git
